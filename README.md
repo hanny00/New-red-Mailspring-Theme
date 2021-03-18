@@ -1,3 +1,5 @@
+![Screenshot](Screenshot_1.png)
+
 # New-red-brown-Mailspring-Theme
 
 ﻿Theme for Mailspring with red and brown colors 
