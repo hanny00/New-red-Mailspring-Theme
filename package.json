@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "Red Mailspring Theme",
+  "title": "Red heme",
+  "displayName": "Red Mailspring Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great theme to change the look and feel from Mailspring.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
